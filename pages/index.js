@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ['latin'] })
 export default function Home() {
   return (
     <>
-      <h1> version 3.0.0</h1>
+      <h1> version 3.4.0.0</h1>
     </>
   )
 }
